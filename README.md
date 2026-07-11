@@ -60,11 +60,3 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Snyk](https://img.shields.io/badge/Snyk-4C4A73?style=flat-square&logo=snyk&logoColor=white)
 ![GoCD](https://img.shields.io/badge/GoCD-94399E?style=flat-square&logo=gocd&logoColor=white)
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AniketDev7&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=00ff88&icon_color=00ff88&text_color=aaaaaa&count_private=true" height="160" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AniketDev7&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=00ff88&text_color=aaaaaa" height="160" />
-</p>
