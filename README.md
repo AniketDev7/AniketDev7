@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://aniket-portfolio-psi.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-00ff88?style=flat-square&logo=vercel&logoColor=black" />
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=vercel&logoColor=00ff88" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/aniket-shikhare/">
